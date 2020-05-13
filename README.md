@@ -1,6 +1,6 @@
 # fileCleaner
 It is a Automated file Organizer
 
-#Usage
+# Usage
 Simply run it using:
 ./fileCLeaner.py
