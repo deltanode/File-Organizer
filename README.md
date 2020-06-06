@@ -1,5 +1,5 @@
-# fileCleaner
-> `fileCleaner` is script that organises files in a directory into subdirectories based on the files' extensions.
+# fileOrganizer
+> `fileOrganizer` is application that organises and manage files in a directory into subdirectories based on the files' extensions.
 
 
 ## Usage
@@ -8,16 +8,16 @@
 
 2. git clone this project to your preferred directory.
 
-3. `cd fileCLeaner`
+3. `cd File-Organizer`
 
-4. `python fileCLeaner.py`
+4. `python FileOrganizer.py`
 
 <br/>
 
 or Execute:
 ```
-ExecuteFileCLeaner.cmd
+ExecuteFileOrganizer.cmd
 ```
 
 ## License
-This project is licensed under the terms of the [MIT license](https://github.com/nagracks/organizer/blob/master/LICENSE).
+This project is licensed under the terms of the [GPL-3.0 license](https://github.com/yogesh7132/File-Organizer/blob/master/LICENSE).
