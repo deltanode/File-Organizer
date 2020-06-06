@@ -23,9 +23,9 @@ ExecuteFileOrganizer.cmd
 
 <br>
 
-<img src="screenshots/screenshot02.png" width=645 height=420></img>
+<img src="screenshots/screenshot-02.png" width=645 height=420></img>
 
-<img src="screenshots/screenshot03.png" width=645 height=420></img>
+<img src="screenshots/screenshot-03.png" width=645 height=420></img>
 
 
 
