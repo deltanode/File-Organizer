@@ -21,10 +21,10 @@ ExecuteFileOrganizer.cmd
 
 ## Screenshots  
 
-<br>
-
+#### First:
 <img src="screenshots/screenshot-02.png" width=645 height=420></img>
 
+#### Second:
 <img src="screenshots/screenshot-03.png" width=645 height=420></img>
 
 ## Installation
