@@ -1,5 +1,5 @@
 ## fileOrganizer
-> `fileOrganizer` is application that organises and manage files in a directory into subdirectories based on the files' extensions.
+> `fileOrganizer` is a utility that organises and manages files in a directory into subdirectories based on the file extensions.
 
 
 ## Usage
@@ -27,7 +27,11 @@ ExecuteFileOrganizer.cmd
 
 <img src="screenshots/screenshot-03.png" width=645 height=420></img>
 
-
+## Installation
+Set up a virtual environment and install the dependencies:
+```sh
+pip install -r requirements.txt
+```
 
 ## License
 This project is licensed under the terms of the [GPL-3.0 license](https://github.com/yogesh7132/File-Organizer/blob/master/LICENSE).
